@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "culqi.sql",
+    "type": "java.lang.String",
+    "description": "A description for 'culqi.sql'"
+  },
+  {
+    "name": "culqi.sk",
+    "type": "java.lang.String",
+    "description": "A description for 'culqi.sk'"
+  }
+]}
